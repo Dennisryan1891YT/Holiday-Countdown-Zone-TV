@@ -1,0 +1,3 @@
+This is the 2025 version of the Holiday Countdown App.
+Please note that this App won't work unless you have a TV Remote that has a Button to Pair with Bluetooth or it won't work!
+I'm gonna try to Optimize it for Android Phone's and Tablet's and so on.
